@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+RequestId:eb756a3a-401e-0073-0556-c28a3c000000
+Time:2023-07-29T19:54:19.5722414Z</Message><AuthenticationErrorDetail>Signature did not match. String to sign used was rle
+2023-07-25T18:12:36Z
+2023-08-13T02:12:36Z
+/blob/safactoreddatathon/$root
+
+
+
+2022-11-02
+c
+
+
+
+
+
+
+</AuthenticationErrorDetail></Error>
