@@ -1,110 +1,45 @@
-Para diseñar una encuesta completa que evalúe los factores internos y externos que influencian la satisfacción y la rotación en un contact center, considerando la pirámide de Maslow, teorías de motivación, y las diferencias generacionales, se propone el siguiente formato. Este diseño busca capturar datos relevantes que permitan a la empresa tomar decisiones informadas para mejorar la retención y satisfacción de sus asesores.
+Para diseñar una encuesta dirigida a asesores de un contact center que permita analizar los motivos de alta rotación, agruparemos las preguntas en factores internos y externos y las relacionaremos con los niveles de la pirámide de Maslow (fisiológicas, seguridad, amor/pertenencia, estima y autorrealización). La estructura propuesta incluirá preguntas de puntuación (donde 1 puede ser muy insatisfecho y 5 muy satisfecho) y de selección múltiple.
 
+### Factores Internos
 
+#### Necesidades Fisiológicas
+1. ¿Cómo calificarías la comodidad de las instalaciones físicas de tu lugar de trabajo? (1-5)
+2. ¿Estás satisfecho con los horarios de trabajo establecidos? (1-5)
+3. ¿Las condiciones de trabajo cumplen con tus expectativas en términos de ergonomía y salud? (1-5)
 
-### Encuesta de Satisfacción y Retención de Empleados
+#### Necesidades de Seguridad
+4. ¿Cómo evaluarías la estabilidad laboral en tu puesto de trabajo? (1-5)
+5. ¿Te sientes seguro(a) en tu ambiente de trabajo en términos de salud y seguridad ocupacional? (1-5)
 
+#### Necesidades de Amor y Pertenencia
+6. ¿Cómo calificarías el ambiente laboral y el compañerismo dentro de tu equipo? (1-5)
+7. ¿Te sientes parte de la comunidad de tu lugar de trabajo? (1-5)
+8. ¿Cómo evaluarías el soporte y la comunicación con tus supervisores? (1-5)
 
+#### Necesidades de Estima
+9. ¿Recibes el reconocimiento adecuado por tu trabajo? (1-5)
+10. ¿Cómo calificarías las oportunidades de desarrollo profesional y capacitación que ofrece la empresa? (1-5)
 
-**Instrucciones:** Por favor, responde las siguientes preguntas basándote en tu experiencia de trabajo en la empresa. Todas tus respuestas serán tratadas de manera confidencial.
+#### Necesidades de Autorrealización
+11. ¿Sientes que tu trabajo te permite desarrollar tus habilidades y alcanzar tu potencial? (1-5)
+12. ¿Cómo evaluarías tu nivel de satisfacción con las tareas y responsabilidades asignadas? (1-5)
 
+### Factores Externos
 
+#### Condiciones de Mercado
+13. ¿Cómo consideras que es la competencia por puestos similares en el mercado laboral? (Baja, Moderada, Alta)
+14. ¿Crees que tu salario es competitivo comparado con el mercado laboral actual? (Sí, No)
 
-#### Sección 1: Información General
+#### Influencia Social y Familiar
+15. ¿Cómo afectan tus responsabilidades laborales a tu vida personal y familiar? (1-5)
 
-- **P1.** Edad: ____
+#### Expectativas y Desarrollo Profesional
+16. ¿Consideras que existen mejores oportunidades de desarrollo profesional fuera de la empresa? (Sí, No)
+17. En caso de buscar otro empleo, ¿qué factor sería el más determinante para ti? (Selecciona uno: Mejor salario, Mejor balance vida laboral/personal, Oportunidades de desarrollo profesional, Ambiente laboral más positivo)
 
-- **P2.** Género: ____
+### Preguntas para Analizar la Rotación
+18. ¿Cuál es tu nivel de satisfacción general con tu empleo actual? (1-5)
+19. ¿Has considerado buscar otro empleo en los últimos 6 meses? (Sí, No)
+20. Si has considerado dejar tu empleo, ¿cuál sería el principal motivo? (Opciones basadas en las categorías anteriores)
 
-- **P3.** Antigüedad en la empresa: ____
-
-- **P4.** Departamento o área de trabajo: ____
-
-
-
-#### Sección 2: Factores Internos
-
-
-
-##### Necesidades Fisiológicas
-
-- **P5.** ¿Cómo calificarías la comodidad de las instalaciones físicas de tu lugar de trabajo? (1-5)
-
-
-
-##### Necesidades de Seguridad
-
-- **P6.** ¿Te sientes seguro(a) en tu ambiente de trabajo en términos de salud y seguridad ocupacional? (1-5)
-
-- **P7.** ¿Cómo evaluarías la estabilidad laboral en tu puesto de trabajo? (1-5)
-
-
-
-##### Necesidades de Amor y Pertenencia
-
-- **P8.** ¿Cómo calificarías el ambiente laboral y el compañerismo dentro de tu equipo? (1-5)
-
-- **P9.** ¿Te sientes parte de la comunidad de tu lugar de trabajo? (1-5)
-
-
-
-##### Necesidades de Estima
-
-- **P10.** ¿Recibes el reconocimiento adecuado por tu trabajo? (1-5)
-
-- **P11.** ¿Cómo calificarías las oportunidades de desarrollo profesional y capacitación que ofrece la empresa? (1-5)
-
-
-
-##### Necesidades de Autorrealización
-
-- **P12.** ¿Sientes que tu trabajo te permite desarrollar tus habilidades y alcanzar tu potencial? (1-5)
-
-
-
-##### Herramientas y Recursos de Trabajo
-
-- **P13.** ¿Las herramientas y tecnologías proporcionadas para tu trabajo cumplen con tus necesidades y expectativas? (1-5)
-
-- **P14.** ¿Recibes el soporte técnico adecuado para resolver problemas relacionados con las herramientas de trabajo? (1-5)
-
-
-
-##### Modelo de Incentivos y Compensación
-
-- **P15.** ¿Cómo evaluarías la justicia y competitividad de tu esquema de compensación? (1-5)
-
-- **P16.** ¿El sistema de incentivos (bonificaciones, comisiones) te motiva a alcanzar tus objetivos? (1-5)
-
-- **P17.** ¿Sientes que hay una correlación clara entre tu desempeño y los incentivos recibidos? (1-5)
-
-
-
-#### Sección 3: Factores Externos
-
-
-
-##### Condiciones del Mercado Laboral
-
-- **P18.** ¿Cómo consideras la competitividad de tu salario y beneficios en relación al mercado actual? (Baja, Media, Alta)
-
-- **P19.** ¿Crees que podrías encontrar mejores oportunidades de empleo con tus habilidades actuales? (Sí, No)
-
-
-
-#### Sección 4: Evaluación General y Motivos de Rotación
-
-- **P20.** En una escala del 1 al 5, ¿cuán satisfecho estás en general con tu empleo actual?
-
-- **P21.** Si has considerado dejar tu empleo, selecciona el principal motivo: (Selección múltiple con opciones basadas en categorías anteriores, incluyendo "Mejor salario en otra empresa", "Mejores oportunidades de desarrollo profesional", "Búsqueda de un mejor balance vida-trabajo", "Preferencia por una cultura organizacional diferente", "Insatisfacción con el modelo de incentivos", "Necesidad de mejores herramientas de trabajo").
-
-
-
-**Comentarios adicionales:** (Espacio para que el empleado pueda añadir cualquier otro comentario o sugerencia que considere relevante para mejorar su experiencia de trabajo en la empresa.)
-
-
-
-### Instrucciones para el Análisis de Datos
-
-Los datos recopilados de esta encuesta deben ser analizados con el objetivo de identificar áreas clave para la mejora en términos
-
+Esta estructura de encuesta busca proporcionar una visión integral de la experiencia del asesor dentro de la organización, vinculando factores internos y externos con las necesidades humanas básicas según Maslow, para así identificar posibles áreas de mejora y entender mejor las causas detrás de la rotación de personal.
